@@ -4,9 +4,12 @@
 ##  History of National Football ⚽
 Welcome to the **National Football Project**. 🧑🏻‍💻
 \
+\
 💡 Curious about **trends and fashions** in the history of national team soccer matches?
 \
+\
 📈 This analysis offers a clear view of **global trends**, the players who have made history, and the dynamics that have shaped the most prestigious leagues.
+\
 \
 This report examines the evolution of international soccer through **four key aspects**:\
 🌍Statistics on World Tournaments, 📊FIFA Ranking, ⚽Total Goals, 🏅Best Scorers
