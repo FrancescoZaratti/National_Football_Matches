@@ -14,4 +14,5 @@ Welcome to the **National Football Project**. 🧑🏻‍💻
 This report examines the evolution of international soccer through **four key aspects**:\
 🌍Statistics on World Tournaments, 📊FIFA Ranking, ⚽Total Goals, 🏅Best Scorers
 \
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescozaratti/)
